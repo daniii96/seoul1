@@ -87,7 +87,7 @@ ul, li {
   .concept_items {
     padding: 70px 15px;
     flex-direction: column;
-    gap: 10px;
+    gap: 50px;
   }
   .concept_items .concept_item {
     width: 100%;
